@@ -19,7 +19,7 @@ namespace SevenDaysToDie_ConsoleCommands
 
         public void addName(string name)
         {
-            //add name to achievement_names
+            //add name to achievement_names while resizing array
             Array.Resize(ref achievement_names, achievement_names.Length + 1);
             achievement_names[achievement_names.Length - 1] = name;
         }
@@ -35,7 +35,8 @@ namespace SevenDaysToDie_ConsoleCommands
 
         public void Start()
         {
-            // add all the names to the list of achievements
+            //add all the names to the list of achievements
+            //these were a bit tricky to find in this game, not gonna lie.
             addName("StoneAxe");
             addName("Bedroll");
             addName("BleedOut");
@@ -83,12 +84,17 @@ namespace SevenDaysToDie_ConsoleCommands
 
         public void Update()
         {
+            //if we press space while in a map/game
             if (Input.GetKeyDown(KeyCode.Space))
             {
+                //we loop through the strings and pass them to Steamworks
                 for (int i = 0; i < achievement_names.Length; i++)
                 {
+                    //and set them to unlocked
                     Steamworks.SteamUserStats.SetAchievement(achievement_names[i]);
                 }
+
+                //then we print a message to the console and spam newlines to make it more visible
                 Logger.LogInfo("\n\n\n\n\n");
                 Logger.LogInfo("=============================ATTEMPTING ACHIEVEMENT HACK=============================");
                 Logger.LogInfo("All achievements should be unlocked now, if used while in a map/game. Mine did not trigger until I exited the game. -Daltonyx (:)");
