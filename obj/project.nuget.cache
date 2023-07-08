@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "H+LVuxf04WHYrOaxT6xbpPXvOB6lYyeUTVA090KQOGZBYinhl0IlPGov4a3Wk5O9YeOjtZcYmjyXaaMzVM5XWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dalto\\source\\repos\\SevenDaysToDie_AchievementHack\\SevenDaysToDie_AchievementHack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dalto\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\dalto\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
+    "C:\\Users\\dalto\\.nuget\\packages\\bepinex.core\\5.4.21\\bepinex.core.5.4.21.nupkg.sha512",
+    "C:\\Users\\dalto\\.nuget\\packages\\bepinex.plugininfoprops\\1.1.0\\bepinex.plugininfoprops.1.1.0.nupkg.sha512",
+    "C:\\Users\\dalto\\.nuget\\packages\\harmonyx\\2.7.0\\harmonyx.2.7.0.nupkg.sha512",
+    "C:\\Users\\dalto\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\dalto\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512",
+    "C:\\Users\\dalto\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\dalto\\.nuget\\packages\\monomod.runtimedetour\\21.12.13.1\\monomod.runtimedetour.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\dalto\\.nuget\\packages\\monomod.utils\\21.12.13.1\\monomod.utils.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\dalto\\.nuget\\packages\\unityengine.modules\\2021.3.19\\unityengine.modules.2021.3.19.nupkg.sha512"
+  ],
+  "logs": []
+}

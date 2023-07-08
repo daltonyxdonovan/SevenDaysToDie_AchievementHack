@@ -1,0 +1,6 @@
+C:\Users\dalto\source\repos\SevenDaysToDie_AchievementHack\obj\Debug\netstandard2.0\SevenDaysToDie_AchievementHack.csproj.AssemblyReference.cache
+C:\Users\dalto\source\repos\SevenDaysToDie_AchievementHack\obj\Debug\netstandard2.0\PluginInfo.cs
+C:\Users\dalto\source\repos\SevenDaysToDie_AchievementHack\obj\Debug\netstandard2.0\SevenDaysToDie_AchievementHack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalto\source\repos\SevenDaysToDie_AchievementHack\obj\Debug\netstandard2.0\SevenDaysToDie_AchievementHack.AssemblyInfoInputs.cache
+C:\Users\dalto\source\repos\SevenDaysToDie_AchievementHack\obj\Debug\netstandard2.0\SevenDaysToDie_AchievementHack.AssemblyInfo.cs
+C:\Users\dalto\source\repos\SevenDaysToDie_AchievementHack\obj\Debug\netstandard2.0\SevenDaysToDie_AchievementHack.csproj.CoreCompileInputs.cache
