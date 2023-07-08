@@ -1,7 +1,6 @@
 ﻿using BepInEx;
 using UnityEngine;
 using System;
-using Platform.Steam;
 
 namespace SevenDaysToDie_ConsoleCommands
 {
@@ -10,7 +9,6 @@ namespace SevenDaysToDie_ConsoleCommands
     public class Plugin : BaseUnityPlugin
     {
         string[] achievement_names;
-        public Platform.Steam.AchievementManager achievementManager;
 
         public void Awake()
         {
